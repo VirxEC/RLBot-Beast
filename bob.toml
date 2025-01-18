@@ -1,7 +1,7 @@
 [[config]]
-project_name = "KickoffOnly"
-bot_configs = ["src/script.toml"]
+project_name = "Beast"
+bot_configs = ["beastbot/beast.bot.toml"]
 
 [config.builder_config]
 builder_type = "pyinstaller"
-entry_file = "kickoff_only.spec"
+entry_file = "beastbot.spec"

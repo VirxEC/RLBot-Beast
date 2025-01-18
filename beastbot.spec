@@ -3,7 +3,7 @@
 
 a = Analysis(
     ['beastbot/beastbot.py'],
-    pathex=['beastbot/],
+    pathex=['beastbot/'],
     binaries=[],
     datas=[],
     hiddenimports=[],
